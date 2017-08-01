@@ -1,7 +1,7 @@
 {
   "name": "autocorrect-en",
   "main": "./lib/index",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides English-based autocorrections for common typos.",
   "keywords": [
     "atom",
